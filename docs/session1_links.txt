@@ -1,0 +1,10 @@
+Programming:
+http://math.hws.edu/javanotes6
+http://developer.android.com/guide/topics/fundamentals.html
+http://www.dalvikvm.com
+
+Design:
+http://www.androidpatterns.com/
+http://www.codinghorror.com/blog/2006/11/this-is-what-happens-when-you-let-developers-create-ui.html
+http://weblogs.asp.net/alex_papadimoulis/archive/2004/06/02/146784.aspx
+http://mobile-patterns.com
